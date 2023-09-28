@@ -1,6 +1,6 @@
 
 .navbar {
-  background-color: #333;
+  background-color: #e0f3f8;
   overflow: hidden;
 }
 
@@ -8,7 +8,7 @@
 .navbar a {
   float: left;
   font-size: 16px;
-  color: white;
+  color: pink;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -41,7 +41,7 @@
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #333;
+  background-color: #e0f3f8;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
@@ -58,7 +58,7 @@
 
 /* Change background color on hover for dropdown links */
 .dropdown-content a:hover {
-  background-color: #ddd;
+  background-color: #fba0d5;
 }
 
 /* Display the dropdown content when hovering over the dropdown */
@@ -71,7 +71,7 @@
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: #333;
+    background-color: pink;
   }
   
   /*bolletjes weg gehaald*/
