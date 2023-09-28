@@ -1,6 +1,6 @@
 
 .navbar {
-  background-color: #e0f3f8;
+  background-color: #faebf3;
   overflow: hidden;
 }
 
@@ -34,7 +34,7 @@
 
 /* Change background color on hover for both links and dropdown buttons */
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: pink;
+  background-color: rgb(240, 221, 244);
 }
 
 /* Style the dropdown content */
@@ -95,7 +95,7 @@
   /* de tekstgrootte veranderd*/
   body {
     font-size: medium;
-    background-color: #f3d1e5;
+    background-color: #e2fbf1;
   }
 
   P {
